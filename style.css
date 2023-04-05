@@ -1,0 +1,20 @@
+.corpo  {
+    background: rgb(2,0,36);
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,106,121,1) 0%, rgba(0,212,255,1) 54%); 
+}
+#imagem {
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 40%;
+}
+    /*texto*/
+#titulo {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    text-align: center;
+}
+#texto {
+    font-family: 'Roboto Slab', serif;
+    font-size: 25px;
+    line-height: 28px;
+}
