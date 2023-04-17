@@ -1,11 +1,13 @@
 .corpo  {
+    /*gradiente*/
     background: rgb(2,0,36);
-    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,106,121,1) 0%, rgba(0,212,255,1) 54%); 
+    background: linear-gradient(14deg, rgba(2,0,36,1) 0%, rgba(63,63,196,1) 26%, rgba(0,212,255,1) 72%); 
 }
 #imagem {
-    width: 20%;
+    height: 465px;
+    width: 50%;
     border-radius: 10%;
-    margin-left: 40%;
+    margin-left: 25%;
 }
     /*texto*/
 #titulo {
